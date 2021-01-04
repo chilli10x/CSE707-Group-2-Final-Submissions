@@ -1,9 +1,11 @@
 https://drive.google.com/file/d/1bLqJjulFwcl-jqizZD0Sqie31mg0nzjc/view?usp=sharing
 
+The above link is the main document link of digitally editable ConceptMap.
 This Concept Map was prepared using an online tool at https://app.diagrams.net/ (formerly draw.io).
 The permission is set to "Everyone with the link can comment."
 Please open the link and select "Open with diagrams.net" at the top of the browser page.
 
 An SVG version was exported from the concept map tool and attached in this submission for convenience in viewing without accessing the tool.
+Please access the SVG version through https://raw.githubusercontent.com/curiousquantum/CSE707-Group-2-Final-Submissions/main/submissions/Git-Pro-Chapter10-Git-Interals.svg
 
 This submission is by Group 2 of course CSE707, Fall 2020.
