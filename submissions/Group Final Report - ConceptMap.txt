@@ -1,3 +1,4 @@
+Concept Map on Chapter 10 "Git Internals" from the book: "Pro Git by Scott Chacon and Ben Straub"
 https://drive.google.com/file/d/1bLqJjulFwcl-jqizZD0Sqie31mg0nzjc/view?usp=sharing
 
 The above link is the main document link of digitally editable ConceptMap.
